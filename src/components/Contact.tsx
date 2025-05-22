@@ -10,13 +10,12 @@ export function Contact() {
     return (
         <section className="py-10 px-4 bg-white">
             <div className="container mx-auto text-center">
-                <h2 className="text-2xl font-serif text-rose-800 mb-4">
-                    ¿Te gusta lo que ves?
+                <h2 className="text-2xl font-semibold text-blue-500 mb-4">
+                    Cuidar tu salud es nuestra prioridad.
                 </h2>
                 <p className="text-gray-600 mb-6 max-w-md mx-auto">
-                    Envíanos un mensaje para conocer más sobre nuestros
-                    productos, precios especiales o hacer un pedido
-                    personalizado.
+                    Envíanos un mensaje y con gusto te ayudamos a agendar una
+                    consulta o responder tus preguntas.
                 </p>
                 <a
                     href={whatsappUrl}

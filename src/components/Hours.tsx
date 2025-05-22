@@ -6,9 +6,9 @@ export function Hours() {
             <div className="container mx-auto max-w-md">
                 <div className="bg-white rounded-lg shadow-md p-6">
                     <div className="flex items-center justify-center mb-4">
-                        <LuClock className="w-6 h-6 text-rose-700 mr-2" />
-                        <h2 className="text-2xl font-serif text-rose-800">
-                            Horarios de Atención
+                        <LuClock className="text-2xl text-blue-500 mr-2" />
+                        <h2 className="text-2xl font-semibold">
+                            Horarios De Atención
                         </h2>
                     </div>
                     <div className="space-y-2">

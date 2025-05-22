@@ -13,16 +13,17 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-    title: "D' Moda Accesorios | Tienda de Ropa y Accesorios",
+    title: "ClinicCare | Atención Médica General y Familiar",
     description:
-        "Descubre los mejores accesorios y prendas de moda en D'Moda Accesorios. Calidad y estilo en cada detalle.",
-    keywords: "accesorios de moda, ropa casual, tienda de ropa, moda femenina",
+        "En ClinicCare ofrecemos atención médica confiable, cercana y profesional. Agenda tu consulta hoy y cuida tu salud con nosotros.",
+    keywords:
+        "consulta médica, doctor general, salud familiar, atención médica, clínica médica, medicina general",
     openGraph: {
-        title: "D' Moda Accesorios | Moda y Estilo",
+        title: "ClinicCare | Tu salud en buenas manos",
         description:
-            "Encuentra accesorios y ropa con estilo en nuestra tienda. Calidad y tendencia al mejor precio.",
-        url: "https://dmoda-accesorios-demo.vercel.app/",
-        siteName: "D' Moda Accesorios",
+            "Atención médica general y familiar en ClinicCare. Calidad, confianza y cercanía en cada consulta.",
+        url: "https://cliniccare-demo.vercel.app/",
+        siteName: "ClinicCare",
         type: "website",
     },
 };
